@@ -1,0 +1,44 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "namess": "kev",
+            "email": "kev@gmail.com",
+            "phone": "071234567",
+            "amount": "1000",
+            "location": "rongai"
+        },
+        {
+            "namess": "max",
+            "email": "max@gmail.com",
+            "phone": "12345",
+            "location": "kanairo",
+            "amount": "1000",
+            "id": 2
+        },
+        {
+            "id": 3,
+            "namess": "effie",
+            "email": "effise@gmail.com",
+            "phone": "4321",
+            "amount": "1000",
+            "location": "westlands"
+        },
+        {
+            "namess": "sydo",
+            "email": "sydo@gmail.com",
+            "phone": "67893",
+            "location": "kakamega",
+            "amount": "1000",
+            "id": 4
+        },
+        {
+            "namess": "me",
+            "email": "me@gmail.com",
+            "phone": "12345",
+            "location": "kanairo",
+            "amount": "1000",
+            "id": 5
+        }
+    ]
+}
